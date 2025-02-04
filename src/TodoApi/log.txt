@@ -1,0 +1,18 @@
+2025-02-04 12:39:32.778 +02:00 [INF] kissa
+2025-02-04 12:39:37.271 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-04 12:39:37.282 +02:00 [INF] Response Status Code: 404 | Response Body: 
+2025-02-04 12:39:54.872 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-04 12:39:55.145 +02:00 [INF] Response Status Code: 201 | Response Body: {"id":1,"name":"string","isComplete":true}
+2025-02-04 12:40:07.153 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-04 12:40:07.254 +02:00 [INF] Response Status Code: 200 | Response Body: [{"id":1,"name":"string","isComplete":true}]
+2025-02-04 12:40:37.252 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-04 12:40:37.270 +02:00 [INF] Response Status Code: 400 | Response Body: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"errors":{"$":["'0xC3' is invalid after a value. Expected either ',', '}', or ']'. Path: $ | LineNumber: 4 | BytePositionInLine: 0."],"todoItem":["The todoItem field is required."]},"traceId":"00-569e3c93381112cec3354022a2f05622-ec5c861c3948ac35-00"}
+2025-02-04 12:46:07.486 +02:00 [INF] kissa
+2025-02-04 12:46:14.692 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-04 12:46:14.763 +02:00 [ERR] Response Status Code: 400 | Response Body: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"errors":{"$":["'0xC3' is invalid after a value. Expected either ',', '}', or ']'. Path: $ | LineNumber: 4 | BytePositionInLine: 0."],"todoItem":["The todoItem field is required."]},"traceId":"00-1d56d2771cfdebf32fc4485c4cac8d96-461e935fdf8f3b61-00"}
+2025-02-04 12:46:29.153 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-04 12:46:29.318 +02:00 [INF] Response Status Code: 201 | Response Body: {"id":1,"name":"string","isComplete":true}
+2025-02-04 12:46:50.097 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-04 12:46:50.189 +02:00 [INF] Response Status Code: 200 | Response Body: [{"id":1,"name":"string","isComplete":true}]
+2025-02-04 12:46:58.683 +02:00 [INF] Request Method: GET | Request Path: /api/sdsd
+2025-02-04 12:46:58.684 +02:00 [ERR] Response Status Code: 404 | Response Body: 
