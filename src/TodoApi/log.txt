@@ -1,18 +1,71 @@
-2025-02-04 12:39:32.778 +02:00 [INF] kissa
-2025-02-04 12:39:37.271 +02:00 [INF] Request Method: GET | Request Path: /
-2025-02-04 12:39:37.282 +02:00 [INF] Response Status Code: 404 | Response Body: 
-2025-02-04 12:39:54.872 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
-2025-02-04 12:39:55.145 +02:00 [INF] Response Status Code: 201 | Response Body: {"id":1,"name":"string","isComplete":true}
-2025-02-04 12:40:07.153 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
-2025-02-04 12:40:07.254 +02:00 [INF] Response Status Code: 200 | Response Body: [{"id":1,"name":"string","isComplete":true}]
-2025-02-04 12:40:37.252 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
-2025-02-04 12:40:37.270 +02:00 [INF] Response Status Code: 400 | Response Body: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"errors":{"$":["'0xC3' is invalid after a value. Expected either ',', '}', or ']'. Path: $ | LineNumber: 4 | BytePositionInLine: 0."],"todoItem":["The todoItem field is required."]},"traceId":"00-569e3c93381112cec3354022a2f05622-ec5c861c3948ac35-00"}
-2025-02-04 12:46:07.486 +02:00 [INF] kissa
-2025-02-04 12:46:14.692 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
-2025-02-04 12:46:14.763 +02:00 [ERR] Response Status Code: 400 | Response Body: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"errors":{"$":["'0xC3' is invalid after a value. Expected either ',', '}', or ']'. Path: $ | LineNumber: 4 | BytePositionInLine: 0."],"todoItem":["The todoItem field is required."]},"traceId":"00-1d56d2771cfdebf32fc4485c4cac8d96-461e935fdf8f3b61-00"}
-2025-02-04 12:46:29.153 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
-2025-02-04 12:46:29.318 +02:00 [INF] Response Status Code: 201 | Response Body: {"id":1,"name":"string","isComplete":true}
-2025-02-04 12:46:50.097 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
-2025-02-04 12:46:50.189 +02:00 [INF] Response Status Code: 200 | Response Body: [{"id":1,"name":"string","isComplete":true}]
-2025-02-04 12:46:58.683 +02:00 [INF] Request Method: GET | Request Path: /api/sdsd
-2025-02-04 12:46:58.684 +02:00 [ERR] Response Status Code: 404 | Response Body: 
+2025-02-04 14:33:04.147 +02:00 [INF] kissa
+2025-02-04 14:33:17.721 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-04 14:33:17.753 +02:00 [INF] Response Status Code: 200
+2025-02-04 14:33:17.770 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-04 14:33:17.771 +02:00 [INF] Response Status Code: 200
+2025-02-04 14:33:17.814 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-04 14:33:17.861 +02:00 [INF] Response Status Code: 200
+2025-02-04 14:33:28.373 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-04 14:33:28.643 +02:00 [INF] Response Status Code: 201
+2025-02-04 14:33:52.378 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-04 14:33:52.399 +02:00 [ERR] Response Status Code: 400
+2025-02-04 14:34:32.554 +02:00 [INF] Request Method: POST | Request Path: /api/todoitems
+2025-02-04 14:34:32.575 +02:00 [ERR] An error occurred while processing the request.
+System.ArgumentException: An item with the same key has already been added. Key: 1
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.Create(IUpdateEntry entry, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryStore.ExecuteTransaction(IList`1 entries, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at TodoApi.Controllers.TodoItemsController.PostTodoItem(TodoItem todoItem) in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Controllers/TodoItemsController.cs:line 81
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Program.<>c.<<<Main>$>b__0_1>d.MoveNext() in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Program.cs:line 51
+2025-02-04 14:35:03.255 +02:00 [INF] Request Method: POST | Request Path: /api/todoitems
+2025-02-04 14:35:03.264 +02:00 [ERR] An error occurred while processing the request.
+System.ArgumentException: An item with the same key has already been added. Key: 1
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.Create(IUpdateEntry entry, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryStore.ExecuteTransaction(IList`1 entries, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at TodoApi.Controllers.TodoItemsController.PostTodoItem(TodoItem todoItem) in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Controllers/TodoItemsController.cs:line 81
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Program.<>c.<<<Main>$>b__0_1>d.MoveNext() in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Program.cs:line 51
+2025-02-04 14:35:09.390 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-04 14:35:09.447 +02:00 [INF] Response Status Code: 200
+2025-02-04 14:35:23.703 +02:00 [INF] Request Method: POST | Request Path: /api/todoitems
+2025-02-04 14:35:23.704 +02:00 [INF] Response Status Code: 201

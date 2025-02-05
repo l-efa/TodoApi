@@ -56,14 +56,14 @@ app.Use(async (context, next) =>
 
             if (context.Response.StatusCode >= 400 && context.Response.StatusCode < 500)
             {
-                Log.Error("Response Status Code: {StatusCode} | Response Body: {ResponseBody}",
-                context.Response.StatusCode, responseBody);
+                Log.Error("Response Status Code: {StatusCode}",
+                context.Response.StatusCode);
             }
             else
             {
                 // Log the response status code and body (if available)
-                Log.Information("Response Status Code: {StatusCode} | Response Body: {ResponseBody}",
-                context.Response.StatusCode, responseBody);
+                Log.Information("Response Status Code: {StatusCode}",
+                context.Response.StatusCode);
             }
 
             // Copy the memory stream back to the original response body so the client gets it
