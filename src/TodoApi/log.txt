@@ -69,3 +69,1337 @@ System.ArgumentException: An item with the same key has already been added. Key:
 2025-02-04 14:35:09.447 +02:00 [INF] Response Status Code: 200
 2025-02-04 14:35:23.703 +02:00 [INF] Request Method: POST | Request Path: /api/todoitems
 2025-02-04 14:35:23.704 +02:00 [INF] Response Status Code: 201
+2025-02-11 10:34:07.354 +02:00 [INF] kissa
+2025-02-11 10:34:14.316 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-11 10:34:14.327 +02:00 [ERR] Response Status Code: 404
+2025-02-11 10:34:17.788 +02:00 [INF] Request Method: GET | Request Path: /swagger
+2025-02-11 10:34:17.790 +02:00 [INF] Response Status Code: 301
+2025-02-11 10:34:17.803 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 10:34:17.834 +02:00 [INF] Response Status Code: 200
+2025-02-11 10:34:17.852 +02:00 [INF] Request Method: GET | Request Path: /swagger/swagger-ui-bundle.js
+2025-02-11 10:34:17.852 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.css
+2025-02-11 10:34:17.852 +02:00 [INF] Request Method: GET | Request Path: /swagger/swagger-ui.css
+2025-02-11 10:34:17.855 +02:00 [INF] Response Status Code: 200
+2025-02-11 10:34:17.855 +02:00 [INF] Response Status Code: 200
+2025-02-11 10:34:17.860 +02:00 [INF] Request Method: GET | Request Path: /swagger/swagger-ui-standalone-preset.js
+2025-02-11 10:34:17.860 +02:00 [INF] Response Status Code: 200
+2025-02-11 10:34:17.861 +02:00 [INF] Response Status Code: 200
+2025-02-11 10:34:17.861 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 10:34:17.861 +02:00 [INF] Response Status Code: 200
+2025-02-11 10:34:17.952 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 10:34:17.973 +02:00 [INF] Request Method: GET | Request Path: /swagger/favicon-32x32.png
+2025-02-11 10:34:17.974 +02:00 [INF] Response Status Code: 200
+2025-02-11 10:34:18.004 +02:00 [INF] Response Status Code: 200
+2025-02-11 10:35:07.213 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-11 10:35:07.467 +02:00 [INF] Response Status Code: 200
+2025-02-11 10:35:07.528 +02:00 [INF] Request Method: GET | Request Path: /favicon.ico
+2025-02-11 10:35:07.528 +02:00 [ERR] Response Status Code: 404
+2025-02-11 10:35:25.631 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 10:35:25.696 +02:00 [INF] Response Status Code: 201
+2025-02-11 10:35:30.764 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 10:35:30.805 +02:00 [INF] Response Status Code: 201
+2025-02-11 10:35:38.123 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 10:35:38.125 +02:00 [INF] Response Status Code: 201
+2025-02-11 10:35:42.938 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 10:35:42.944 +02:00 [INF] Response Status Code: 201
+2025-02-11 10:35:45.989 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-11 10:35:46.002 +02:00 [INF] Response Status Code: 200
+2025-02-11 10:35:54.751 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems/3
+2025-02-11 10:35:54.817 +02:00 [INF] Response Status Code: 200
+2025-02-11 10:36:57.413 +02:00 [INF] kissa
+2025-02-11 10:37:01.576 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems/3
+2025-02-11 10:37:01.796 +02:00 [ERR] Response Status Code: 404
+2025-02-11 10:37:30.486 +02:00 [INF] kissa
+2025-02-11 10:37:32.755 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-11 10:37:32.765 +02:00 [ERR] Response Status Code: 404
+2025-02-11 10:37:39.465 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-11 10:37:39.649 +02:00 [INF] Response Status Code: 200
+2025-02-11 10:37:42.662 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 10:37:42.707 +02:00 [INF] Response Status Code: 200
+2025-02-11 10:37:42.719 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 10:37:42.719 +02:00 [INF] Response Status Code: 200
+2025-02-11 10:37:42.809 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 10:37:42.861 +02:00 [INF] Response Status Code: 200
+2025-02-11 10:38:16.438 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 10:38:16.524 +02:00 [INF] Response Status Code: 201
+2025-02-11 10:38:22.115 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 10:38:22.155 +02:00 [INF] Response Status Code: 201
+2025-02-11 10:38:28.133 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 10:38:28.136 +02:00 [INF] Response Status Code: 201
+2025-02-11 10:38:30.410 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-11 10:38:30.421 +02:00 [INF] Response Status Code: 200
+2025-02-11 10:38:38.887 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems/2
+2025-02-11 10:38:38.954 +02:00 [INF] Response Status Code: 200
+2025-02-11 10:39:36.297 +02:00 [INF] kissa
+2025-02-11 10:39:44.356 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems/2
+2025-02-11 10:39:44.575 +02:00 [ERR] Response Status Code: 404
+2025-02-11 10:39:46.939 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems/
+2025-02-11 10:39:46.968 +02:00 [INF] Response Status Code: 200
+2025-02-11 10:39:48.693 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 10:39:48.737 +02:00 [INF] Response Status Code: 200
+2025-02-11 10:39:48.764 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 10:39:48.766 +02:00 [INF] Response Status Code: 200
+2025-02-11 10:39:48.787 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 10:39:48.828 +02:00 [INF] Response Status Code: 200
+2025-02-11 10:39:59.700 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 10:39:59.795 +02:00 [INF] Response Status Code: 201
+2025-02-11 10:40:05.186 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 10:40:05.189 +02:00 [INF] Response Status Code: 201
+2025-02-11 10:40:10.686 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 10:40:10.692 +02:00 [INF] Response Status Code: 201
+2025-02-11 10:40:13.477 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems/
+2025-02-11 10:40:13.487 +02:00 [INF] Response Status Code: 200
+2025-02-11 10:40:15.995 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems/2
+2025-02-11 10:40:16.001 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:01:24.363 +02:00 [INF] kissa
+2025-02-11 12:01:28.274 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-11 12:01:28.284 +02:00 [ERR] Response Status Code: 404
+2025-02-11 12:01:32.445 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 12:01:32.490 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:01:32.507 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 12:01:32.508 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:01:32.589 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 12:01:32.643 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:01:52.977 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:01:53.282 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:02:29.629 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:02:29.660 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:04:08.145 +02:00 [INF] kissa
+2025-02-11 12:04:13.039 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:04:13.234 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:06:02.413 +02:00 [INF] kissa
+2025-02-11 12:06:06.114 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:06:06.303 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:16:55.067 +02:00 [INF] kissa
+2025-02-11 12:17:26.261 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:17:26.501 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:17:33.026 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:17:33.045 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:19:22.754 +02:00 [INF] kissa
+2025-02-11 12:19:26.639 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:19:26.870 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:19:32.276 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:19:32.295 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:20:27.152 +02:00 [INF] kissa
+2025-02-11 12:20:32.414 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 12:20:32.448 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:20:32.550 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 12:20:32.552 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:20:32.644 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 12:20:32.705 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:20:42.944 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:20:43.261 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:20:48.255 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:20:48.275 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:20:55.033 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:20:55.070 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:25:10.843 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:25:10.847 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:25:41.047 +02:00 [INF] kissa
+2025-02-11 12:25:47.082 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:25:47.309 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:25:53.083 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:25:53.106 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:25:59.685 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:25:59.723 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:26:09.675 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:26:09.679 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:27:08.273 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-11 12:27:08.292 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:31:38.511 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:31:38.514 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:31:48.666 +02:00 [INF] kissa
+2025-02-11 12:31:58.077 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-11 12:31:58.263 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:32:00.364 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:32:00.406 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:32:04.895 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:32:04.930 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:32:12.009 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:32:12.011 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:32:16.936 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:32:16.939 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:32:21.858 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:32:21.861 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:34:07.973 +02:00 [INF] kissa
+2025-02-11 12:34:13.734 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-11 12:34:13.919 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:34:25.013 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:34:25.058 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:34:35.408 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:34:35.449 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:35:49.911 +02:00 [INF] kissa
+2025-02-11 12:35:57.542 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:35:57.729 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:36:09.664 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:36:09.678 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:36:58.758 +02:00 [INF] kissa
+2025-02-11 12:37:02.811 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:37:03.004 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:37:14.179 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:37:14.192 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:37:26.105 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:37:26.128 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:38:58.108 +02:00 [INF] kissa
+2025-02-11 12:39:05.124 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-11 12:39:05.305 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:39:23.072 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:39:23.114 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:39:36.181 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:39:36.220 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:40:50.909 +02:00 [INF] kissa
+2025-02-11 12:40:52.835 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-11 12:40:52.845 +02:00 [ERR] Response Status Code: 404
+2025-02-11 12:41:01.316 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 12:41:01.344 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:41:01.355 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 12:41:01.356 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:41:01.408 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 12:41:01.459 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:41:22.351 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:41:22.563 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:42:24.979 +02:00 [INF] kissa
+2025-02-11 12:42:26.620 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-11 12:42:26.630 +02:00 [ERR] Response Status Code: 404
+2025-02-11 12:42:46.244 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-11 12:42:46.444 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:42:50.079 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:42:50.123 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:43:10.616 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:43:10.656 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:44:06.273 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-11 12:44:06.276 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:44:10.053 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:44:10.054 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:44:19.598 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-11 12:44:19.600 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:44:20.215 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-11 12:44:20.217 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:44:20.355 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-11 12:44:20.357 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:45:00.626 +02:00 [INF] kissa
+2025-02-11 12:45:03.655 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 12:45:03.686 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:45:03.709 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 12:45:03.711 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:45:03.893 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 12:45:03.959 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:45:18.493 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:45:18.741 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:45:26.418 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-11 12:45:26.456 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:46:36.843 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:46:36.881 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:48:43.181 +02:00 [INF] kissa
+2025-02-11 12:48:46.650 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:48:46.882 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:50:28.281 +02:00 [INF] kissa
+2025-02-11 12:50:33.095 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 12:50:33.128 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:50:33.155 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 12:50:33.158 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:50:33.339 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 12:50:33.404 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:50:47.805 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:50:48.050 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:51:19.667 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:51:19.688 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:51:44.016 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:51:44.065 +02:00 [ERR] An error occurred while processing the request.
+System.ArgumentException: An item with the same key has already been added. Key: 3
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.Create(IUpdateEntry entry, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryStore.ExecuteTransaction(IList`1 entries, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at TodoApi.Controllers.TodoItemsController.PostTodoItem(TodoItem todoItem) in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Controllers/TodoItemsController.cs:line 106
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Program.<>c.<<<Main>$>b__0_1>d.MoveNext() in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Program.cs:line 51
+2025-02-11 12:52:19.901 +02:00 [INF] kissa
+2025-02-11 12:52:25.758 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 12:52:25.792 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:52:25.816 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 12:52:25.818 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:52:26.004 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 12:52:26.072 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:52:36.263 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:52:36.503 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:52:46.986 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:52:47.007 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:52:53.948 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:52:53.995 +02:00 [ERR] An error occurred while processing the request.
+System.ArgumentException: An item with the same key has already been added. Key: 3
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.Create(IUpdateEntry entry, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryStore.ExecuteTransaction(IList`1 entries, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at TodoApi.Controllers.TodoItemsController.PostTodoItem(TodoItem todoItem) in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Controllers/TodoItemsController.cs:line 106
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Program.<>c.<<<Main>$>b__0_1>d.MoveNext() in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Program.cs:line 51
+2025-02-11 12:54:03.452 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 12:54:03.453 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:54:03.467 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 12:54:03.468 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:54:03.655 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 12:54:03.659 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:54:20.415 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:54:20.418 +02:00 [ERR] Response Status Code: 400
+2025-02-11 12:54:43.929 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:54:43.941 +02:00 [ERR] An error occurred while processing the request.
+System.InvalidOperationException: The instance of entity type 'TodoItem' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey, Nullable`1 fallbackState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.PaintAction(EntityEntryGraphNode`1 node)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityEntryGraphIterator.TraverseGraph[TState](EntityEntryGraphNode`1 node, Func`2 handleNode)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.AttachGraph(InternalEntityEntry rootEntry, EntityState targetState, EntityState storeGeneratedWithKeySetTargetState, Boolean forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.SetEntityState(InternalEntityEntry entry, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.Add(TEntity entity)
+   at TodoApi.Controllers.TodoItemsController.PostTodoItem(TodoItem todoItem) in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Controllers/TodoItemsController.cs:line 105
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Program.<>c.<<<Main>$>b__0_1>d.MoveNext() in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Program.cs:line 51
+2025-02-11 12:54:54.264 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:54:54.268 +02:00 [ERR] An error occurred while processing the request.
+System.ArgumentException: An item with the same key has already been added. Key: 100
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.Create(IUpdateEntry entry, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryStore.ExecuteTransaction(IList`1 entries, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at TodoApi.Controllers.TodoItemsController.PostTodoItem(TodoItem todoItem) in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Controllers/TodoItemsController.cs:line 106
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Program.<>c.<<<Main>$>b__0_1>d.MoveNext() in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Program.cs:line 51
+2025-02-11 12:55:06.831 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:55:06.833 +02:00 [ERR] An error occurred while processing the request.
+System.InvalidOperationException: The instance of entity type 'TodoItem' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey, Nullable`1 fallbackState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.PaintAction(EntityEntryGraphNode`1 node)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityEntryGraphIterator.TraverseGraph[TState](EntityEntryGraphNode`1 node, Func`2 handleNode)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.AttachGraph(InternalEntityEntry rootEntry, EntityState targetState, EntityState storeGeneratedWithKeySetTargetState, Boolean forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.SetEntityState(InternalEntityEntry entry, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.Add(TEntity entity)
+   at TodoApi.Controllers.TodoItemsController.PostTodoItem(TodoItem todoItem) in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Controllers/TodoItemsController.cs:line 105
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Program.<>c.<<<Main>$>b__0_1>d.MoveNext() in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Program.cs:line 51
+2025-02-11 12:55:43.784 +02:00 [INF] kissa
+2025-02-11 12:55:44.387 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 12:55:44.420 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:55:44.435 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 12:55:44.436 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:55:44.621 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 12:55:44.666 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:55:50.117 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 12:55:50.117 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:55:50.132 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 12:55:50.132 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:55:50.317 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 12:55:50.321 +02:00 [INF] Response Status Code: 200
+2025-02-11 12:56:05.702 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:56:05.939 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:56:10.670 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:56:10.689 +02:00 [ERR] Response Status Code: 400
+2025-02-11 12:56:19.074 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:56:19.119 +02:00 [ERR] An error occurred while processing the request.
+System.InvalidOperationException: The instance of entity type 'TodoItem' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey, Nullable`1 fallbackState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.PaintAction(EntityEntryGraphNode`1 node)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityEntryGraphIterator.TraverseGraph[TState](EntityEntryGraphNode`1 node, Func`2 handleNode)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.AttachGraph(InternalEntityEntry rootEntry, EntityState targetState, EntityState storeGeneratedWithKeySetTargetState, Boolean forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.SetEntityState(InternalEntityEntry entry, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.Add(TEntity entity)
+   at TodoApi.Controllers.TodoItemsController.PostTodoItem(TodoItem todoItem) in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Controllers/TodoItemsController.cs:line 105
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Program.<>c.<<<Main>$>b__0_1>d.MoveNext() in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Program.cs:line 51
+2025-02-11 12:56:25.303 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:56:25.308 +02:00 [INF] Response Status Code: 201
+2025-02-11 12:56:40.669 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:56:40.679 +02:00 [ERR] An error occurred while processing the request.
+System.ArgumentException: An item with the same key has already been added. Key: 3
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.Create(IUpdateEntry entry, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryStore.ExecuteTransaction(IList`1 entries, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at TodoApi.Controllers.TodoItemsController.PostTodoItem(TodoItem todoItem) in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Controllers/TodoItemsController.cs:line 106
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Program.<>c.<<<Main>$>b__0_1>d.MoveNext() in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Program.cs:line 51
+2025-02-11 12:56:45.777 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 12:56:45.780 +02:00 [ERR] An error occurred while processing the request.
+System.ArgumentException: An item with the same key has already been added. Key: 4
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.Create(IUpdateEntry entry, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryStore.ExecuteTransaction(IList`1 entries, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at TodoApi.Controllers.TodoItemsController.PostTodoItem(TodoItem todoItem) in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Controllers/TodoItemsController.cs:line 106
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Program.<>c.<<<Main>$>b__0_1>d.MoveNext() in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Program.cs:line 51
+2025-02-11 13:22:18.550 +02:00 [INF] kissa
+2025-02-11 13:22:23.526 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 13:22:23.561 +02:00 [INF] Response Status Code: 200
+2025-02-11 13:22:23.665 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 13:22:23.667 +02:00 [INF] Response Status Code: 200
+2025-02-11 13:22:23.853 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 13:22:23.907 +02:00 [INF] Response Status Code: 200
+2025-02-11 13:22:37.406 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 13:22:37.714 +02:00 [INF] Response Status Code: 201
+2025-02-11 13:22:47.846 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 13:22:47.869 +02:00 [INF] Response Status Code: 201
+2025-02-11 13:23:06.900 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 13:23:06.938 +02:00 [INF] Response Status Code: 201
+2025-02-11 13:23:22.588 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 13:23:22.590 +02:00 [ERR] Response Status Code: 400
+2025-02-11 13:23:54.253 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems
+2025-02-11 13:23:54.256 +02:00 [INF] Response Status Code: 201
+2025-02-11 14:28:35.990 +02:00 [INF] kissa
+2025-02-11 14:28:41.689 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-11 14:28:41.700 +02:00 [ERR] Response Status Code: 404
+2025-02-11 14:28:47.826 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 14:28:47.871 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:28:47.897 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 14:28:47.898 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:28:48.008 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 14:28:48.074 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:34:24.967 +02:00 [INF] kissa
+2025-02-11 14:34:27.237 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-11 14:34:27.247 +02:00 [ERR] Response Status Code: 404
+2025-02-11 14:34:31.377 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 14:34:31.423 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:34:31.450 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 14:34:31.451 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:34:31.563 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 14:34:31.630 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:34:55.180 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-11 14:34:55.494 +02:00 [INF] Response Status Code: 201
+2025-02-11 14:35:37.804 +02:00 [INF] Request Method: POST | Request Path: /login
+2025-02-11 14:35:37.876 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:43:12.422 +02:00 [INF] kissa
+2025-02-11 14:43:19.619 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 14:43:19.651 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:43:19.690 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 14:43:19.691 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:43:19.738 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 14:43:19.788 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:43:32.893 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-11 14:43:33.143 +02:00 [INF] Response Status Code: 201
+2025-02-11 14:43:43.022 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-11 14:43:43.041 +02:00 [INF] Response Status Code: 201
+2025-02-11 14:43:56.543 +02:00 [INF] Request Method: GET | Request Path: /api/TodoItems
+2025-02-11 14:43:56.588 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:44:19.603 +02:00 [INF] kissa
+2025-02-11 14:44:21.956 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 14:44:21.989 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:44:22.012 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 14:44:22.016 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:44:22.079 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 14:44:22.131 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:44:58.834 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-11 14:44:59.081 +02:00 [INF] Response Status Code: 201
+2025-02-11 14:45:06.131 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-11 14:45:06.152 +02:00 [INF] Response Status Code: 201
+2025-02-11 14:45:16.882 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-11 14:45:16.925 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:48:22.834 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 14:48:22.836 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:48:22.849 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 14:48:22.850 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:48:22.913 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 14:48:22.917 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:48:30.541 +02:00 [INF] kissa
+2025-02-11 14:48:31.608 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 14:48:31.640 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:48:31.664 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 14:48:31.665 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:48:31.718 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 14:48:31.768 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:49:43.239 +02:00 [INF] kissa
+2025-02-11 14:49:59.522 +02:00 [INF] kissa
+2025-02-11 14:50:00.852 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 14:50:00.885 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:50:00.907 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 14:50:00.909 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:50:00.973 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 14:50:01.029 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:50:26.140 +02:00 [INF] kissa
+2025-02-11 14:50:27.085 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 14:50:27.118 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:50:27.134 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 14:50:27.135 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:50:27.197 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 14:50:27.247 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:50:54.558 +02:00 [INF] kissa
+2025-02-11 14:51:01.664 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 14:51:01.694 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:51:01.784 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 14:51:01.785 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:51:01.839 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 14:51:01.893 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:51:31.863 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems/register
+2025-02-11 14:51:32.186 +02:00 [INF] Response Status Code: 201
+2025-02-11 14:51:37.643 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems/register
+2025-02-11 14:51:37.663 +02:00 [INF] Response Status Code: 201
+2025-02-11 14:51:40.477 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems/register
+2025-02-11 14:51:40.513 +02:00 [ERR] Response Status Code: 400
+2025-02-11 14:51:45.742 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-11 14:51:45.772 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:51:54.030 +02:00 [INF] Request Method: GET | Request Path: /api/TodoItems
+2025-02-11 14:51:54.038 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:54:51.709 +02:00 [INF] kissa
+2025-02-11 14:55:05.246 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 14:55:05.280 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:55:05.314 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 14:55:05.315 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:55:05.366 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 14:55:05.425 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:55:19.970 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems/register
+2025-02-11 14:55:20.218 +02:00 [INF] Response Status Code: 201
+2025-02-11 14:55:31.183 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-11 14:55:31.223 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:55:37.062 +02:00 [INF] kissa
+2025-02-11 14:55:39.264 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-11 14:55:39.444 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:57:11.779 +02:00 [INF] kissa
+2025-02-11 14:57:13.113 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-11 14:57:13.295 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:57:15.731 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-11 14:57:15.774 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:57:15.793 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-11 14:57:15.794 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:57:15.855 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-11 14:57:15.912 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:57:27.626 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems/register
+2025-02-11 14:57:27.713 +02:00 [INF] Response Status Code: 201
+2025-02-11 14:57:30.914 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-11 14:57:30.957 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:57:38.826 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems/register
+2025-02-11 14:57:38.832 +02:00 [INF] Response Status Code: 201
+2025-02-11 14:57:41.030 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-11 14:57:41.033 +02:00 [INF] Response Status Code: 200
+2025-02-11 14:57:44.138 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems/register
+2025-02-11 14:57:44.139 +02:00 [ERR] Response Status Code: 400
+2025-02-25 09:45:41.135 +02:00 [INF] kissa
+2025-02-25 09:45:53.693 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 09:45:53.704 +02:00 [ERR] Response Status Code: 404
+2025-02-25 09:45:58.750 +02:00 [INF] Request Method: GET | Request Path: /todoapi
+2025-02-25 09:45:58.752 +02:00 [ERR] Response Status Code: 404
+2025-02-25 09:46:46.739 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-25 09:46:46.971 +02:00 [INF] Response Status Code: 200
+2025-02-25 09:46:47.023 +02:00 [INF] Request Method: GET | Request Path: /favicon.ico
+2025-02-25 09:46:47.024 +02:00 [ERR] Response Status Code: 404
+2025-02-25 09:46:57.935 +02:00 [INF] Request Method: GET | Request Path: /swaggewr
+2025-02-25 09:46:57.935 +02:00 [ERR] Response Status Code: 404
+2025-02-25 09:47:02.332 +02:00 [INF] Request Method: GET | Request Path: /swagger
+2025-02-25 09:47:02.333 +02:00 [INF] Response Status Code: 301
+2025-02-25 09:47:02.338 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-25 09:47:02.377 +02:00 [INF] Response Status Code: 200
+2025-02-25 09:47:02.385 +02:00 [INF] Request Method: GET | Request Path: /swagger/swagger-ui.css
+2025-02-25 09:47:02.385 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.css
+2025-02-25 09:47:02.388 +02:00 [INF] Request Method: GET | Request Path: /swagger/swagger-ui-bundle.js
+2025-02-25 09:47:02.388 +02:00 [INF] Request Method: GET | Request Path: /swagger/swagger-ui-standalone-preset.js
+2025-02-25 09:47:02.388 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-25 09:47:02.388 +02:00 [INF] Response Status Code: 200
+2025-02-25 09:47:02.390 +02:00 [INF] Response Status Code: 200
+2025-02-25 09:47:02.391 +02:00 [INF] Response Status Code: 200
+2025-02-25 09:47:02.392 +02:00 [INF] Response Status Code: 200
+2025-02-25 09:47:02.397 +02:00 [INF] Response Status Code: 200
+2025-02-25 09:47:02.487 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-25 09:47:02.500 +02:00 [INF] Request Method: GET | Request Path: /swagger/favicon-32x32.png
+2025-02-25 09:47:02.501 +02:00 [INF] Response Status Code: 200
+2025-02-25 09:47:02.540 +02:00 [INF] Response Status Code: 200
+2025-02-25 09:47:28.458 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems/register
+2025-02-25 09:47:28.534 +02:00 [INF] Response Status Code: 201
+2025-02-25 09:47:31.085 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-25 09:47:31.117 +02:00 [INF] Response Status Code: 200
+2025-02-25 09:47:41.289 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems/register
+2025-02-25 09:47:41.297 +02:00 [INF] Response Status Code: 201
+2025-02-25 09:47:43.321 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-25 09:47:43.322 +02:00 [INF] Response Status Code: 200
+2025-02-25 09:47:45.977 +02:00 [INF] Request Method: POST | Request Path: /api/TodoItems/register
+2025-02-25 09:47:45.979 +02:00 [ERR] Response Status Code: 400
+2025-02-25 09:47:48.619 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-25 09:47:48.621 +02:00 [INF] Response Status Code: 200
+2025-02-25 09:47:49.509 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-25 09:47:49.511 +02:00 [INF] Response Status Code: 200
+2025-02-25 09:55:05.476 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-25 09:55:05.478 +02:00 [INF] Response Status Code: 200
+2025-02-25 10:01:08.833 +02:00 [INF] kissa
+2025-02-25 10:01:25.104 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-25 10:01:25.193 +02:00 [ERR] An error occurred while processing the request.
+System.FormatException: The header contains invalid values at index 0: 'text.html'
+   at Microsoft.Net.Http.Headers.HttpHeaderParser`1.ParseValue(StringSegment value, Int32& index)
+   at Microsoft.Net.Http.Headers.MediaTypeHeaderValue.Parse(StringSegment input)
+   at Microsoft.AspNetCore.Mvc.ControllerBase.PhysicalFile(String physicalPath, String contentType, String fileDownloadName)
+   at TodoApi.Controllers.TodoItemsController.GetHtmlFile() in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Controllers/TodoItemsController.cs:line 35
+   at lambda_method2(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Program.<>c.<<<Main>$>b__0_1>d.MoveNext() in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Program.cs:line 51
+2025-02-25 10:09:50.424 +02:00 [INF] kissa
+2025-02-25 10:10:21.323 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-25 10:10:21.377 +02:00 [INF] Response Status Code: 200
+2025-02-25 10:11:01.701 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-25 10:11:01.724 +02:00 [INF] Response Status Code: 200
+2025-02-25 10:11:22.115 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-25 10:11:22.120 +02:00 [INF] Response Status Code: 304
+2025-02-25 10:16:12.232 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-25 10:16:12.233 +02:00 [INF] Response Status Code: 304
+2025-02-25 10:16:36.494 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-25 10:16:36.502 +02:00 [INF] Response Status Code: 200
+2025-02-25 10:17:01.493 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-25 10:17:01.502 +02:00 [INF] Response Status Code: 200
+2025-02-25 10:26:01.648 +02:00 [INF] kissa
+2025-02-25 10:26:06.363 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-25 10:26:06.463 +02:00 [INF] Response Status Code: 304
+2025-02-25 10:26:09.413 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.html
+2025-02-25 10:26:09.457 +02:00 [INF] Response Status Code: 200
+2025-02-25 10:26:09.477 +02:00 [INF] Request Method: GET | Request Path: /swagger/index.js
+2025-02-25 10:26:09.479 +02:00 [INF] Response Status Code: 200
+2025-02-25 10:26:09.599 +02:00 [INF] Request Method: GET | Request Path: /swagger/v1/swagger.json
+2025-02-25 10:26:09.657 +02:00 [INF] Response Status Code: 200
+2025-02-25 10:26:23.061 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-25 10:26:23.080 +02:00 [INF] Response Status Code: 200
+2025-02-25 10:27:42.764 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-25 10:27:42.788 +02:00 [INF] Response Status Code: 200
+2025-02-25 10:28:29.834 +02:00 [INF] kissa
+2025-02-25 10:28:32.886 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-25 10:28:32.936 +02:00 [INF] Response Status Code: 200
+2025-02-25 10:28:36.663 +02:00 [INF] Request Method: POST | Request Path: /api/api/todoitems
+2025-02-25 10:28:36.664 +02:00 [ERR] Response Status Code: 404
+2025-02-25 10:28:59.102 +02:00 [INF] kissa
+2025-02-25 10:29:08.431 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-25 10:29:08.484 +02:00 [INF] Response Status Code: 200
+2025-02-25 10:29:12.385 +02:00 [INF] Request Method: POST | Request Path: /api/todoitems
+2025-02-25 10:29:12.419 +02:00 [INF] Response Status Code: 200
+2025-02-25 10:29:33.584 +02:00 [INF] Request Method: POST | Request Path: /api/todoitems
+2025-02-25 10:29:33.589 +02:00 [INF] Response Status Code: 200
+2025-02-25 10:29:39.510 +02:00 [INF] Request Method: POST | Request Path: /api/todoitems
+2025-02-25 10:29:39.512 +02:00 [INF] Response Status Code: 200
+2025-02-25 10:29:40.845 +02:00 [INF] Request Method: GET | Request Path: /api/todoitems
+2025-02-25 10:29:40.852 +02:00 [INF] Response Status Code: 200
+2025-02-25 10:29:44.442 +02:00 [INF] Request Method: POST | Request Path: /api/todoitems
+2025-02-25 10:29:44.444 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:08:36.390 +02:00 [INF] kissa
+2025-02-25 12:08:57.829 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 12:08:57.918 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:09:31.936 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 12:09:31.968 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:09:32.872 +02:00 [INF] Request Method: GET | Request Path: //register
+2025-02-25 12:09:32.874 +02:00 [ERR] Response Status Code: 404
+2025-02-25 12:09:48.148 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 12:09:48.166 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:09:50.048 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:09:50.054 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:11:06.426 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 12:11:06.428 +02:00 [INF] Response Status Code: 304
+2025-02-25 12:11:07.765 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:11:07.767 +02:00 [INF] Response Status Code: 304
+2025-02-25 12:11:42.048 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:11:42.065 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:11:43.214 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 12:11:43.215 +02:00 [INF] Response Status Code: 304
+2025-02-25 12:11:44.116 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:11:44.118 +02:00 [INF] Response Status Code: 304
+2025-02-25 12:11:47.613 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:11:47.615 +02:00 [INF] Response Status Code: 304
+2025-02-25 12:12:05.909 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:12:05.924 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:12:06.783 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 12:12:06.785 +02:00 [INF] Response Status Code: 304
+2025-02-25 12:12:07.482 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:12:07.484 +02:00 [INF] Response Status Code: 304
+2025-02-25 12:12:14.759 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:12:14.776 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:12:16.242 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:12:16.243 +02:00 [INF] Response Status Code: 304
+2025-02-25 12:30:32.521 +02:00 [INF] kissa
+2025-02-25 12:30:40.603 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:30:40.703 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:30:45.230 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 12:30:45.462 +02:00 [ERR] An error occurred while processing the request.
+System.InvalidOperationException: No route matches the supplied values.
+   at Microsoft.AspNetCore.Mvc.Infrastructure.RedirectToActionResultExecutor.ExecuteAsync(ActionContext context, RedirectToActionResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Program.<>c.<<<Main>$>b__0_1>d.MoveNext() in /Users/s2401566/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-perusteet/tunti3-api/TodoApi/src/TodoApi/Program.cs:line 51
+2025-02-25 12:30:51.261 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:30:51.268 +02:00 [INF] Response Status Code: 304
+2025-02-25 12:30:54.449 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 12:30:54.484 +02:00 [ERR] Response Status Code: 409
+2025-02-25 12:31:28.636 +02:00 [INF] kissa
+2025-02-25 12:31:31.874 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 12:31:32.116 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:31:34.050 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:31:34.069 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:31:37.916 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 12:31:37.953 +02:00 [ERR] Response Status Code: 409
+2025-02-25 12:31:48.659 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 12:31:48.697 +02:00 [ERR] Response Status Code: 409
+2025-02-25 12:31:53.125 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 12:31:53.129 +02:00 [ERR] Response Status Code: 409
+2025-02-25 12:31:54.487 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:31:54.490 +02:00 [INF] Response Status Code: 304
+2025-02-25 12:31:55.602 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 12:31:55.606 +02:00 [INF] Response Status Code: 304
+2025-02-25 12:32:01.389 +02:00 [INF] Request Method: POST | Request Path: /todoitems
+2025-02-25 12:32:01.390 +02:00 [ERR] Response Status Code: 404
+2025-02-25 12:36:35.385 +02:00 [INF] kissa
+2025-02-25 12:36:41.352 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 12:36:41.404 +02:00 [INF] Response Status Code: 304
+2025-02-25 12:36:42.365 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:36:42.384 +02:00 [INF] Response Status Code: 304
+2025-02-25 12:36:46.015 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 12:36:46.243 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:39:17.463 +02:00 [INF] kissa
+2025-02-25 12:39:22.313 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:39:22.364 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:39:27.218 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 12:39:27.445 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:41:34.571 +02:00 [INF] kissa
+2025-02-25 12:41:38.066 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:41:38.116 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:42:07.731 +02:00 [INF] kissa
+2025-02-25 12:43:35.574 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:43:35.633 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:43:37.071 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:43:37.080 +02:00 [INF] Response Status Code: 304
+2025-02-25 12:44:16.855 +02:00 [INF] kissa
+2025-02-25 12:44:20.063 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:44:20.115 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:44:38.091 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:44:38.117 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:44:40.929 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 12:44:41.153 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:46:01.479 +02:00 [INF] kissa
+2025-02-25 12:46:06.139 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:46:06.240 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:46:09.536 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 12:46:09.783 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:46:37.545 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:46:37.571 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:46:41.167 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 12:46:41.202 +02:00 [ERR] Response Status Code: 409
+2025-02-25 12:46:43.944 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:46:43.947 +02:00 [INF] Response Status Code: 304
+2025-02-25 12:46:50.158 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 12:46:50.197 +02:00 [ERR] Response Status Code: 409
+2025-02-25 12:46:53.672 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:46:53.673 +02:00 [INF] Response Status Code: 304
+2025-02-25 12:46:58.218 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 12:46:58.220 +02:00 [ERR] Response Status Code: 409
+2025-02-25 12:47:12.155 +02:00 [INF] kissa
+2025-02-25 12:47:16.324 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:47:16.374 +02:00 [INF] Response Status Code: 304
+2025-02-25 12:47:19.777 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 12:47:20.005 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:49:32.996 +02:00 [INF] kissa
+2025-02-25 12:49:38.705 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:49:38.759 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:49:41.587 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 12:49:41.817 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:50:55.363 +02:00 [INF] kissa
+2025-02-25 12:50:58.063 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:50:58.115 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:51:03.143 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 12:51:03.371 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:53:19.772 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:53:19.779 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:53:26.055 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 12:53:26.076 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:53:32.419 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:53:32.422 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:53:36.086 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 12:53:36.134 +02:00 [ERR] Response Status Code: 409
+2025-02-25 12:53:56.371 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:53:56.373 +02:00 [INF] Response Status Code: 304
+2025-02-25 12:54:02.056 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 12:54:02.059 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:58:55.267 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:58:55.269 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:59:16.941 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 12:59:16.956 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:59:17.756 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 12:59:17.775 +02:00 [INF] Response Status Code: 200
+2025-02-25 12:59:22.356 +02:00 [INF] Request Method: POST | Request Path: /
+2025-02-25 12:59:22.388 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:11:37.126 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 13:11:37.128 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:11:41.414 +02:00 [INF] Request Method: POST | Request Path: /
+2025-02-25 13:11:41.417 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:11:48.061 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 13:11:48.062 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:12:24.739 +02:00 [INF] Request Method: POST | Request Path: /
+2025-02-25 13:12:24.742 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:12:26.268 +02:00 [INF] Request Method: POST | Request Path: /
+2025-02-25 13:12:26.271 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:13:11.290 +02:00 [INF] kissa
+2025-02-25 13:13:16.210 +02:00 [INF] Request Method: POST | Request Path: /
+2025-02-25 13:13:16.556 +02:00 [ERR] Response Status Code: 401
+2025-02-25 13:13:17.563 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 13:13:17.583 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:13:21.434 +02:00 [INF] Request Method: POST | Request Path: /
+2025-02-25 13:13:21.454 +02:00 [ERR] Response Status Code: 401
+2025-02-25 13:13:25.731 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 13:13:25.736 +02:00 [INF] Response Status Code: 304
+2025-02-25 13:13:30.198 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 13:13:30.287 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:13:40.313 +02:00 [INF] Request Method: POST | Request Path: /
+2025-02-25 13:13:40.338 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:14:05.939 +02:00 [INF] kissa
+2025-02-25 13:14:08.830 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 13:14:08.884 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:14:10.251 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 13:14:10.270 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:14:13.671 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 13:14:13.901 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:14:19.723 +02:00 [INF] Request Method: POST | Request Path: /
+2025-02-25 13:14:19.764 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:16:43.232 +02:00 [INF] kissa
+2025-02-25 13:16:46.226 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 13:16:46.280 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:16:47.411 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 13:16:47.431 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:16:50.325 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 13:16:50.549 +02:00 [INF] Response Status Code: 302
+2025-02-25 13:16:50.554 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 13:16:50.554 +02:00 [INF] Response Status Code: 304
+2025-02-25 13:16:56.606 +02:00 [INF] Request Method: POST | Request Path: /
+2025-02-25 13:16:56.655 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:22:30.025 +02:00 [INF] kissa
+2025-02-25 13:22:35.753 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 13:22:35.811 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:22:40.854 +02:00 [INF] Request Method: POST | Request Path: /
+2025-02-25 13:22:41.056 +02:00 [ERR] Response Status Code: 401
+2025-02-25 13:22:44.520 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 13:22:44.533 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:22:47.547 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 13:22:47.624 +02:00 [INF] Response Status Code: 302
+2025-02-25 13:22:47.628 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 13:22:47.629 +02:00 [INF] Response Status Code: 304
+2025-02-25 13:22:51.905 +02:00 [INF] Request Method: POST | Request Path: /
+2025-02-25 13:22:51.957 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:22:59.606 +02:00 [INF] Request Method: GET | Request Path: /api/all
+2025-02-25 13:22:59.629 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:23:14.591 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 13:23:14.594 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:23:18.240 +02:00 [INF] Request Method: POST | Request Path: /
+2025-02-25 13:23:18.243 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:23:29.784 +02:00 [INF] Request Method: GET | Request Path: /api/all
+2025-02-25 13:23:29.786 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:23:44.796 +02:00 [INF] Request Method: GET | Request Path: /api/1
+2025-02-25 13:23:44.797 +02:00 [ERR] Response Status Code: 404
+2025-02-25 13:24:01.253 +02:00 [INF] Request Method: GET | Request Path: /api/
+2025-02-25 13:24:01.253 +02:00 [ERR] Response Status Code: 404
+2025-02-25 13:24:08.180 +02:00 [INF] Request Method: GET | Request Path: /api/all
+2025-02-25 13:24:08.182 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:28:50.752 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 13:28:50.754 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:29:06.215 +02:00 [INF] kissa
+2025-02-25 13:29:10.002 +02:00 [INF] kissa
+2025-02-25 13:29:14.342 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 13:29:14.393 +02:00 [INF] Response Status Code: 304
+2025-02-25 13:29:15.345 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 13:29:15.363 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:29:18.601 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 13:29:18.823 +02:00 [INF] Response Status Code: 302
+2025-02-25 13:29:18.828 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 13:29:18.828 +02:00 [INF] Response Status Code: 304
+2025-02-25 13:29:21.387 +02:00 [INF] Request Method: POST | Request Path: /
+2025-02-25 13:29:21.436 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:29:31.920 +02:00 [INF] Request Method: GET | Request Path: /api/all
+2025-02-25 13:29:31.959 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:37:04.498 +02:00 [INF] kissa
+2025-02-25 13:37:11.499 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 13:37:11.599 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:37:12.963 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 13:37:12.984 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:37:15.380 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 13:37:15.620 +02:00 [INF] Response Status Code: 302
+2025-02-25 13:37:15.624 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 13:37:15.624 +02:00 [INF] Response Status Code: 304
+2025-02-25 13:37:18.210 +02:00 [INF] Request Method: POST | Request Path: /
+2025-02-25 13:37:18.243 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:37:22.944 +02:00 [INF] Request Method: GET | Request Path: /api/all
+2025-02-25 13:37:22.990 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:47:58.737 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 13:47:58.741 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:47:59.781 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 13:47:59.784 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:48:04.191 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 13:48:04.199 +02:00 [INF] Response Status Code: 302
+2025-02-25 13:48:04.203 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 13:48:04.205 +02:00 [INF] Response Status Code: 304
+2025-02-25 13:48:05.015 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 13:48:05.017 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:48:09.040 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 13:48:09.044 +02:00 [ERR] Response Status Code: 409
+2025-02-25 13:48:14.871 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 13:48:14.873 +02:00 [INF] Response Status Code: 302
+2025-02-25 13:48:14.876 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 13:48:14.876 +02:00 [INF] Response Status Code: 304
+2025-02-25 13:48:19.606 +02:00 [INF] Request Method: POST | Request Path: /
+2025-02-25 13:48:19.610 +02:00 [ERR] Response Status Code: 401
+2025-02-25 13:48:26.186 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 13:48:26.188 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:48:30.507 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 13:48:30.510 +02:00 [INF] Response Status Code: 302
+2025-02-25 13:48:30.512 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 13:48:30.513 +02:00 [INF] Response Status Code: 304
+2025-02-25 13:48:32.520 +02:00 [INF] Request Method: GET | Request Path: /api/all
+2025-02-25 13:48:32.522 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:53:41.571 +02:00 [INF] kissa
+2025-02-25 13:53:42.598 +02:00 [INF] Request Method: GET | Request Path: /api/all
+2025-02-25 13:53:42.791 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:53:45.545 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 13:53:45.568 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:53:49.488 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 13:53:49.572 +02:00 [INF] Response Status Code: 302
+2025-02-25 13:53:49.577 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 13:53:49.577 +02:00 [INF] Response Status Code: 304
+2025-02-25 13:53:52.144 +02:00 [INF] Request Method: GET | Request Path: /api/all
+2025-02-25 13:53:52.186 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:53:55.242 +02:00 [INF] Request Method: GET | Request Path: /api/1
+2025-02-25 13:53:55.243 +02:00 [ERR] Response Status Code: 404
+2025-02-25 13:54:50.863 +02:00 [INF] kissa
+2025-02-25 13:54:55.156 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 13:54:55.208 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:54:57.730 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 13:54:57.959 +02:00 [INF] Response Status Code: 302
+2025-02-25 13:54:57.964 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 13:54:57.966 +02:00 [INF] Response Status Code: 304
+2025-02-25 13:55:00.338 +02:00 [INF] Request Method: GET | Request Path: /api/1
+2025-02-25 13:55:00.386 +02:00 [INF] Response Status Code: 200
+2025-02-25 13:55:03.724 +02:00 [INF] Request Method: GET | Request Path: /api/all
+2025-02-25 13:55:03.773 +02:00 [INF] Response Status Code: 200
+2025-02-25 14:04:17.970 +02:00 [INF] kissa
+2025-02-25 14:04:23.495 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 14:04:23.596 +02:00 [INF] Response Status Code: 200
+2025-02-25 14:04:26.700 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 14:04:26.938 +02:00 [INF] Response Status Code: 302
+2025-02-25 14:04:26.954 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 14:04:26.956 +02:00 [INF] Response Status Code: 304
+2025-02-25 14:04:30.366 +02:00 [INF] Request Method: GET | Request Path: /api/all
+2025-02-25 14:04:30.412 +02:00 [INF] Response Status Code: 200
+2025-02-25 14:04:33.617 +02:00 [INF] Request Method: GET | Request Path: /api/1
+2025-02-25 14:04:33.672 +02:00 [INF] Response Status Code: 200
+2025-02-25 14:05:23.139 +02:00 [INF] Request Method: GET | Request Path: /api/all
+2025-02-25 14:05:23.143 +02:00 [INF] Response Status Code: 200
+2025-02-25 14:05:29.763 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 14:05:29.765 +02:00 [INF] Response Status Code: 200
+2025-02-25 14:05:33.996 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 14:05:34.004 +02:00 [ERR] Response Status Code: 409
+2025-02-25 14:39:06.819 +02:00 [INF] kissa
+2025-02-25 14:39:10.915 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-02-25 14:39:10.968 +02:00 [INF] Response Status Code: 304
+2025-02-25 14:39:17.778 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-02-25 14:39:18.013 +02:00 [INF] Response Status Code: 302
+2025-02-25 14:39:18.018 +02:00 [INF] Request Method: GET | Request Path: /
+2025-02-25 14:39:18.020 +02:00 [INF] Response Status Code: 304
+2025-02-25 14:39:20.971 +02:00 [INF] Request Method: GET | Request Path: /admin
+2025-02-25 14:39:20.985 +02:00 [INF] Response Status Code: 200
+2025-02-25 14:39:25.010 +02:00 [INF] Request Method: POST | Request Path: /admin
+2025-02-25 14:39:25.054 +02:00 [ERR] Response Status Code: 415
+2025-02-25 14:43:03.125 +02:00 [INF] Request Method: POST | Request Path: /admin
+2025-02-25 14:43:03.127 +02:00 [ERR] Response Status Code: 415
+2025-02-25 14:44:08.939 +02:00 [INF] kissa
+2025-02-25 14:44:15.666 +02:00 [INF] Request Method: GET | Request Path: /admin
+2025-02-25 14:44:15.710 +02:00 [INF] Response Status Code: 304
+2025-02-25 14:44:21.821 +02:00 [INF] Request Method: POST | Request Path: /admin
+2025-02-25 14:44:21.875 +02:00 [ERR] Response Status Code: 415
+2025-03-04 12:02:20.302 +02:00 [INF] kissa
+2025-03-04 12:02:56.144 +02:00 [INF] päällä
+2025-03-04 12:03:10.704 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:03:10.802 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:03:10.913 +02:00 [INF] Request Method: GET | Request Path: /favicon.ico
+2025-03-04 12:03:10.915 +02:00 [ERR] Response Status Code: 404
+2025-03-04 12:03:33.015 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-03-04 12:03:33.030 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:03:39.448 +02:00 [INF] Request Method: POST | Request Path: /
+2025-03-04 12:03:39.673 +02:00 [ERR] Response Status Code: 401
+2025-03-04 12:03:48.720 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-03-04 12:03:48.795 +02:00 [INF] Response Status Code: 302
+2025-03-04 12:03:48.798 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:03:48.799 +02:00 [INF] Response Status Code: 304
+2025-03-04 12:03:53.824 +02:00 [INF] Request Method: POST | Request Path: /
+2025-03-04 12:03:53.876 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:04:11.060 +02:00 [INF] Request Method: GET | Request Path: /api
+2025-03-04 12:04:11.061 +02:00 [ERR] Response Status Code: 404
+2025-03-04 12:04:14.468 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:04:14.470 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:04:19.196 +02:00 [INF] Request Method: GET | Request Path: /api/users
+2025-03-04 12:04:19.224 +02:00 [ERR] Response Status Code: 400
+2025-03-04 12:04:56.422 +02:00 [INF] Request Method: GET | Request Path: /api/all
+2025-03-04 12:04:56.442 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:05:40.817 +02:00 [INF] Request Method: GET | Request Path: /admin
+2025-03-04 12:05:40.821 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:06:10.811 +02:00 [INF] Request Method: POST | Request Path: /admin
+2025-03-04 12:06:10.824 +02:00 [ERR] Response Status Code: 415
+2025-03-04 12:06:16.980 +02:00 [INF] Request Method: POST | Request Path: /admin
+2025-03-04 12:06:16.982 +02:00 [ERR] Response Status Code: 415
+2025-03-04 12:08:32.069 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:08:32.070 +02:00 [INF] Response Status Code: 304
+2025-03-04 12:10:35.964 +02:00 [INF] päällä
+2025-03-04 12:10:37.904 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:10:37.989 +02:00 [INF] Response Status Code: 304
+2025-03-04 12:10:47.656 +02:00 [INF] Request Method: POST | Request Path: /admin
+2025-03-04 12:10:47.709 +02:00 [ERR] Response Status Code: 415
+2025-03-04 12:11:16.675 +02:00 [INF] päällä
+2025-03-04 12:11:20.992 +02:00 [INF] Request Method: POST | Request Path: /admin
+2025-03-04 12:11:21.063 +02:00 [ERR] Response Status Code: 415
+2025-03-04 12:11:27.797 +02:00 [INF] Request Method: POST | Request Path: /admin
+2025-03-04 12:11:27.809 +02:00 [ERR] Response Status Code: 415
+2025-03-04 12:13:22.577 +02:00 [INF] päällä
+2025-03-04 12:13:30.700 +02:00 [INF] Request Method: POST | Request Path: /admin
+2025-03-04 12:13:30.770 +02:00 [ERR] Response Status Code: 415
+2025-03-04 12:19:56.685 +02:00 [INF] päällä
+2025-03-04 12:20:03.863 +02:00 [INF] Request Method: POST | Request Path: /admin
+2025-03-04 12:20:03.934 +02:00 [ERR] Response Status Code: 415
+2025-03-04 12:25:07.129 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:25:07.150 +02:00 [INF] Response Status Code: 304
+2025-03-04 12:25:08.384 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-03-04 12:25:08.404 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:26:14.411 +02:00 [INF] päällä
+2025-03-04 12:26:21.655 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-03-04 12:26:21.705 +02:00 [INF] Response Status Code: 304
+2025-03-04 12:26:29.228 +02:00 [INF] Request Method: POST | Request Path: /
+2025-03-04 12:26:29.457 +02:00 [ERR] Response Status Code: 401
+2025-03-04 12:26:36.940 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-03-04 12:26:37.014 +02:00 [INF] Response Status Code: 302
+2025-03-04 12:26:37.018 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:26:37.019 +02:00 [INF] Response Status Code: 304
+2025-03-04 12:26:40.850 +02:00 [INF] Request Method: POST | Request Path: /
+2025-03-04 12:26:40.903 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:26:55.112 +02:00 [INF] Request Method: GET | Request Path: /api/all
+2025-03-04 12:26:55.134 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:27:33.748 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:27:33.761 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:29:03.688 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-03-04 12:29:03.691 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:29:06.686 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-03-04 12:29:06.690 +02:00 [INF] Response Status Code: 302
+2025-03-04 12:29:06.693 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:29:06.696 +02:00 [INF] Response Status Code: 304
+2025-03-04 12:29:11.431 +02:00 [INF] Request Method: POST | Request Path: /
+2025-03-04 12:29:11.434 +02:00 [ERR] Response Status Code: 401
+2025-03-04 12:29:15.091 +02:00 [INF] Request Method: GET | Request Path: /api/all
+2025-03-04 12:29:15.095 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:29:19.538 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-03-04 12:29:19.540 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:29:22.582 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-03-04 12:29:22.585 +02:00 [INF] Response Status Code: 302
+2025-03-04 12:29:22.588 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:29:22.589 +02:00 [INF] Response Status Code: 304
+2025-03-04 12:29:24.108 +02:00 [INF] Request Method: GET | Request Path: /api/all
+2025-03-04 12:29:24.110 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:29:27.422 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-03-04 12:29:27.424 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:29:34.738 +02:00 [INF] Request Method: POST | Request Path: /
+2025-03-04 12:29:34.742 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:29:54.767 +02:00 [INF] Request Method: GET | Request Path: /api/all
+2025-03-04 12:29:54.769 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:30:06.583 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:30:06.585 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:30:12.736 +02:00 [INF] Request Method: POST | Request Path: /
+2025-03-04 12:30:12.738 +02:00 [ERR] Response Status Code: 401
+2025-03-04 12:30:27.360 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-03-04 12:30:27.364 +02:00 [INF] Response Status Code: 302
+2025-03-04 12:30:27.367 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:30:27.368 +02:00 [INF] Response Status Code: 304
+2025-03-04 12:30:32.010 +02:00 [INF] Request Method: GET | Request Path: /api/all
+2025-03-04 12:30:32.013 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:30:52.566 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-03-04 12:30:52.567 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:31:04.209 +02:00 [INF] Request Method: POST | Request Path: /
+2025-03-04 12:31:04.212 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:31:10.709 +02:00 [INF] Request Method: GET | Request Path: /api/all
+2025-03-04 12:31:10.712 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:33:24.931 +02:00 [INF] päällä
+2025-03-04 12:33:28.415 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:33:28.466 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:33:41.339 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:33:41.350 +02:00 [INF] Response Status Code: 304
+2025-03-04 12:33:58.792 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:33:58.800 +02:00 [INF] Response Status Code: 304
+2025-03-04 12:34:03.519 +02:00 [INF] päällä
+2025-03-04 12:34:07.459 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:34:07.508 +02:00 [INF] Response Status Code: 304
+2025-03-04 12:34:35.930 +02:00 [INF] päällä
+2025-03-04 12:34:48.414 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-03-04 12:34:48.465 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:35:21.563 +02:00 [INF] päällä
+2025-03-04 12:35:23.532 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-03-04 12:35:23.583 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:35:28.463 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:35:28.478 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:35:30.376 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-03-04 12:35:30.381 +02:00 [INF] Response Status Code: 304
+2025-03-04 12:36:01.336 +02:00 [INF] päällä
+2025-03-04 12:36:06.834 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-03-04 12:36:06.884 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:36:08.525 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-03-04 12:36:08.535 +02:00 [INF] Response Status Code: 304
+2025-03-04 12:36:12.686 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-03-04 12:36:12.691 +02:00 [INF] Response Status Code: 304
+2025-03-04 12:36:13.830 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:36:13.843 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:39:28.907 +02:00 [INF] päällä
+2025-03-04 12:39:30.903 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:39:30.952 +02:00 [INF] Response Status Code: 304
+2025-03-04 12:41:03.513 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:41:03.522 +02:00 [INF] Response Status Code: 304
+2025-03-04 12:41:37.932 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:41:37.939 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:41:43.063 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-03-04 12:41:43.069 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:44:15.424 +02:00 [INF] päällä
+2025-03-04 12:44:19.537 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:44:19.601 +02:00 [INF] Response Status Code: 304
+2025-03-04 12:44:26.852 +02:00 [INF] Request Method: POST | Request Path: /
+2025-03-04 12:44:27.071 +02:00 [ERR] Response Status Code: 401
+2025-03-04 12:44:31.249 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-03-04 12:44:31.257 +02:00 [INF] Response Status Code: 304
+2025-03-04 12:44:36.169 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-03-04 12:44:36.247 +02:00 [INF] Response Status Code: 302
+2025-03-04 12:44:36.250 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:44:36.250 +02:00 [INF] Response Status Code: 304
+2025-03-04 12:44:41.257 +02:00 [INF] Request Method: POST | Request Path: /
+2025-03-04 12:44:41.310 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:45:02.310 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 12:45:02.317 +02:00 [INF] Response Status Code: 200
+2025-03-04 12:45:04.124 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-03-04 12:45:04.133 +02:00 [INF] Response Status Code: 200
+2025-03-04 13:01:44.941 +02:00 [INF] päällä
+2025-03-04 13:01:48.440 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 13:01:48.496 +02:00 [INF] Response Status Code: 304
+2025-03-04 13:09:20.188 +02:00 [INF] päällä
+2025-03-04 13:09:24.468 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 13:09:24.517 +02:00 [INF] Response Status Code: 304
+2025-03-04 13:09:28.210 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 13:09:28.222 +02:00 [INF] Response Status Code: 304
+2025-03-04 13:09:42.696 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-03-04 13:09:42.704 +02:00 [INF] Response Status Code: 304
+2025-03-04 13:12:50.452 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-03-04 13:12:50.673 +02:00 [INF] Response Status Code: 302
+2025-03-04 13:12:50.677 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-04 13:12:50.677 +02:00 [INF] Response Status Code: 304
+2025-03-04 13:14:17.420 +02:00 [INF] Request Method: POST | Request Path: /
+2025-03-04 13:14:17.459 +02:00 [ERR] Response Status Code: 401
+2025-03-11 12:32:18.027 +02:00 [INF] päällä
+2025-03-11 12:32:26.426 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-11 12:32:26.558 +02:00 [INF] Response Status Code: 200
+2025-03-11 12:32:26.677 +02:00 [INF] Request Method: GET | Request Path: /favicon.ico
+2025-03-11 12:32:26.678 +02:00 [ERR] Response Status Code: 404
+2025-03-11 12:32:32.452 +02:00 [INF] Request Method: GET | Request Path: /api/all
+2025-03-11 12:32:32.656 +02:00 [INF] Response Status Code: 200
+2025-03-11 12:32:37.672 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-03-11 12:32:37.681 +02:00 [INF] Response Status Code: 200
+2025-03-11 12:32:41.303 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-03-11 12:32:41.418 +02:00 [INF] Response Status Code: 302
+2025-03-11 12:32:41.423 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-11 12:32:41.423 +02:00 [INF] Response Status Code: 304
+2025-03-11 12:32:42.035 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-03-11 12:32:42.038 +02:00 [INF] Response Status Code: 200
+2025-03-11 12:32:45.124 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-03-11 12:32:45.171 +02:00 [INF] Response Status Code: 302
+2025-03-11 12:32:45.174 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-11 12:32:45.174 +02:00 [INF] Response Status Code: 304
+2025-03-11 12:32:50.229 +02:00 [INF] Request Method: GET | Request Path: /api/all
+2025-03-11 12:32:50.248 +02:00 [INF] Response Status Code: 200
+2025-03-26 12:37:37.503 +02:00 [INF] päällä
+2025-03-26 12:37:53.129 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-26 12:37:53.235 +02:00 [INF] Response Status Code: 200
+2025-03-26 12:37:53.351 +02:00 [INF] Request Method: GET | Request Path: /favicon.ico
+2025-03-26 12:37:53.352 +02:00 [ERR] Response Status Code: 404
+2025-03-26 12:37:56.303 +02:00 [INF] Request Method: GET | Request Path: /register
+2025-03-26 12:37:56.324 +02:00 [INF] Response Status Code: 200
+2025-03-26 12:38:00.718 +02:00 [INF] Request Method: POST | Request Path: /register
+2025-03-26 12:38:00.981 +02:00 [INF] Response Status Code: 302
+2025-03-26 12:38:00.985 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-26 12:38:00.986 +02:00 [INF] Response Status Code: 304
+2025-03-26 12:38:04.963 +02:00 [INF] Request Method: POST | Request Path: /
+2025-03-26 12:38:05.003 +02:00 [INF] Response Status Code: 200
+2025-03-26 12:38:25.114 +02:00 [INF] Request Method: GET | Request Path: /
+2025-03-26 12:38:25.116 +02:00 [INF] Response Status Code: 200
+2025-03-26 12:38:29.775 +02:00 [INF] Request Method: GET | Request Path: /api/all
+2025-03-26 12:38:29.825 +02:00 [INF] Response Status Code: 200
+2025-04-09 13:50:31.040 +03:00 [INF] päällä
+2025-04-09 13:50:39.475 +03:00 [INF] Request Method: GET | Request Path: /
+2025-04-09 13:50:39.603 +03:00 [INF] Response Status Code: 200
+2025-04-09 13:50:39.714 +03:00 [INF] Request Method: GET | Request Path: /favicon.ico
+2025-04-09 13:50:39.715 +03:00 [ERR] Response Status Code: 404
+2025-04-09 13:50:45.952 +03:00 [INF] Request Method: POST | Request Path: /
+2025-04-09 13:50:46.201 +03:00 [ERR] Response Status Code: 401
+2025-04-09 13:50:48.896 +03:00 [INF] Request Method: GET | Request Path: /register
+2025-04-09 13:50:48.907 +03:00 [INF] Response Status Code: 200
+2025-04-09 13:50:52.559 +03:00 [INF] Request Method: POST | Request Path: /register
+2025-04-09 13:50:52.616 +03:00 [INF] Response Status Code: 302
+2025-04-09 13:50:52.618 +03:00 [INF] Request Method: GET | Request Path: /
+2025-04-09 13:50:52.618 +03:00 [INF] Response Status Code: 304
+2025-04-09 13:50:57.235 +03:00 [INF] Request Method: POST | Request Path: /
+2025-04-09 13:50:57.270 +03:00 [INF] Response Status Code: 200
+2025-04-09 13:51:09.229 +03:00 [INF] Request Method: GET | Request Path: /
+2025-04-09 13:51:09.232 +03:00 [INF] Response Status Code: 200

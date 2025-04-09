@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using TodoApi.Models;
+using LoginApi.Models;
 using Serilog;
 using Microsoft.Extensions.Configuration;
 using System.Text.Json;
@@ -14,7 +14,7 @@ Log.Logger = new LoggerConfiguration()
     .ReadFrom.Configuration(configuration)  // This works now
     .CreateLogger();
 
-Log.Information("kissa");
+Log.Information("päällä");
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -23,8 +23,8 @@ builder.Services.AddSwaggerGen();
 // Add services to the container.
 
 builder.Services.AddControllers();
-builder.Services.AddDbContext<TodoContext>(opt =>
-    opt.UseInMemoryDatabase("TodoList"));
+builder.Services.AddDbContext<LoginContext>(opt =>
+    opt.UseInMemoryDatabase("UserList"));
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 
