@@ -118,7 +118,6 @@ namespace LoginApi.Controllers
                     user.Name,
                     user.IsLoggedIn,
                     user.IsLocked,
-                    user.friends,
                 };
 
                 filteredUsers.Add(filteredUser);
